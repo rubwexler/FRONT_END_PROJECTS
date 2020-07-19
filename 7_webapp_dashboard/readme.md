@@ -22,7 +22,7 @@ Project 7 External Resources:
 - Chart.js : https://www.chartjs.org/ 
 - D3.js (a JavaScript library for manipulating documents based on data) : https://d3js.org/
 - Github Cheat Sheet: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf   Definitely read this
-- CSS calc() Function: ???
+- CSS calc() Function:
 - CSS Toggle Switch: https://ghinda.net/css-toggle-switch/ 
 - Random Avatar Faces: https://randomuser.me/photos 
 - JSHint: a tool that helps to detect errors and potential problems in your JavaScript code: https://jshint.com/ 
