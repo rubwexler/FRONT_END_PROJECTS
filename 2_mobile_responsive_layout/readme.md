@@ -1,4 +1,5 @@
-Project Description: Designing web pages that look and function well on multiple screen sizes is an essential skill for a web developer. Using HTML, CSS, and responsive design, you'll create a mobile-first web page with a layout that adjusts to fit mobile phones, tablets, and desktop displays.
+Project Description: 
+- Designing web pages that look and function well on multiple screen sizes is an essential skill for a web developer. Using HTML, CSS, and responsive design, you'll create a mobile-first web page with a layout that adjusts to fit mobile phones, tablets, and desktop displays.
 You'll build a responsive, mobile-first layout using HTML and CSS. The layout should demonstrate an understanding of responsive design by adjusting to accommodate small, medium, and large screen sizes. You will write CSS to style the page for a small mobile device first. Then, using min-width media queries, you’ll add breakpoints to adjust the layout for wider tablet and desktop screens.
 
 What you need to learn to complete this project:
